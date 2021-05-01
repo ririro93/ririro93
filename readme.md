@@ -8,7 +8,7 @@
 ## When I am not studying I like to ...
 - 🏀 play basketball
 - 🐳 go scuba diving when I get the chance
-- ✈ travel but recently also loving staying indoors
+- ✈ travel but also loving staying indoors recently
 
 <hr>
 
