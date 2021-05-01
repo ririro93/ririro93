@@ -1,7 +1,7 @@
 # Who am I?
 
-- 😀 I am currently in living in Korea studying to be a Backend Dev.
-- 🤖 other than backend, I'm interested in reinforcement learning and game dev.
+- 😀 I am currently in living in Korea studying to be a **backend developer**.
+- 🤖 other than backend, I'm interested in **reinforcement learning** and **game dev.**
 
 <br>
 
