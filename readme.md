@@ -14,3 +14,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ririro93)
 ![ririro93's github stats](https://github-readme-stats.vercel.app/api?username=ririro93)
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ririro93&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ririro93&repo=convoychat" />
+</a>
