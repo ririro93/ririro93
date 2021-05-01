@@ -8,7 +8,6 @@
 ## When I am not studying I like to ...
 - 🏀 play basketball
 - 🐳 go scuba diving when I get the chance
-- ✈ travel
 - 💩 code random things
 
 <hr>
