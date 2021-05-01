@@ -4,4 +4,5 @@
 - 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesuisjavert&layout=compact)](https://github.com/jesuisjavert/github-readme-stats) ![ririro93's github stats](https://github-readme-stats.vercel.app/api?username=ririro93)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ririro93&layout=compact)]
+![ririro93's github stats](https://github-readme-stats.vercel.app/api?username=ririro93)
