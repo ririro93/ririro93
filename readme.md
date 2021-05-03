@@ -13,6 +13,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ririro93&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririro93&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github-readme-stats.vercel.app/api?username=ririro93">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ririro93" />
 </a>
