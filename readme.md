@@ -11,8 +11,8 @@
 <hr>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ririro93&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririro93&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririro93&layout=compact" height="100"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=ririro93">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ririro93" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ririro93" height="100"/>
 </a>
