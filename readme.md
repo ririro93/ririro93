@@ -3,11 +3,10 @@
 - 😀 I am currently in living in Korea studying to be a **web developer**.
 - 🤖 other than web dev., I'm interested in **reinforcement learning** and **game dev.**
 
-# I like to ...
+## When I am not studying I like to
 - 🏀 play basketball
 - 🐳 go scuba diving in the summer
 - 💩 code random things
-- 🍍 put grilled pineapple in my hamburgers
 
 <hr>
 
