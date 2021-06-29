@@ -1,6 +1,6 @@
 # Who am I?
 
-- 😀 I am currently in living in Korea studying to be a **web developer**.
+- 😀 I am currently living in Korea studying to be a **web developer**.
 - 🤖 other than web dev., I'm interested in **reinforcement learning** and **game dev.**
 
 ## When I am not studying I like to
